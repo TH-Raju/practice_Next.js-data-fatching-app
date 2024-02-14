@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Joy of Cooking",
+      "description": "Explore the art of cooking with this comprehensive guide, filled with recipes from around the world. From simple breakfast dishes to elaborate desserts, discover new flavors and techniques to elevate your culinary skills.",
+      "likes_count": 1500
+    },
+    {
+      "id": 2,
+      "title": "The Power of Positive Thinking",
+      "description": "Unlock the potential of your mind with this transformative book. Learn how to cultivate optimism and resilience, overcome challenges, and create a fulfilling life filled with happiness and success.",
+      "likes_count": 2300
+    },
+    {
+      "id": 3,
+      "title": "Into the Wild",
+      "description": "Embark on a journey of self-discovery with this gripping adventure tale. Follow the footsteps of Chris McCandless as he ventures into the Alaskan wilderness, seeking meaning and freedom.",
+      "likes_count": 320
+    },
+    {
+      "id": 4,
+      "title": "The Great Gatsby",
+      "description": "Immerse yourself in the decadence and disillusionment of the Roaring Twenties with this classic novel. Experience the opulence of Gatsby's parties and the tragic allure of forbidden love.",
+      "likes_count": 450
+    },
+    {
+      "id": 5,
+      "title": "A Brief History of Time",
+      "description": "Delve into the mysteries of the universe with this groundbreaking exploration of space and time. From the Big Bang to black holes, Stephen Hawking takes readers on a captivating journey through the cosmos.",
+      "likes_count": 550
+    },
+    {
+      "id": 6,
+      "title": "The Art of War",
+      "description": "Gain insight into the strategies of warfare and leadership with this ancient Chinese treatise. Sun Tzu's timeless wisdom offers valuable lessons applicable to various aspects of life and business.",
+      "likes_count": 620
+    }
+  ]
+}
